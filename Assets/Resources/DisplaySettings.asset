@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47a670d47da52f548b431b26429581d4, type: 3}
+  m_Name: DisplaySettings
+  m_EditorClassIdentifier: 
+  scaleForcesByWeight: 1
+  lengthScale: 1
+  widthScale: 1
+  showCenterOfMass: 1
+  comColor: {r: 1, g: 0.5, b: 0, a: 1}
+  showAerodynamicCenter: 1
+  adcColor: {r: 0.3, g: 0.7, b: 1, a: 1}
+  displayAngleOfAttack: 5
+  displayAirspeed: 100
+  displayAirDensity: 1.225
+  showSurfaces: 1
+  wingColor: {r: 0.2, g: 0.2, b: 1, a: 0.25}
+  flapColor: {r: 1, g: 0.6, b: 0.2, a: 0.4}
+  wingAtStallColor: {r: 0.8, g: 0.1, b: 0.1, a: 0.4}
+  flapAtStallColor: {r: 1, g: 0.2, b: 0.2, a: 0.5}
+  showForces: 1
+  showTorque: 1
+  liftColor: {r: 0.3, g: 0.7, b: 1, a: 0.95}
+  dragColor: {r: 0.9, g: 0.1, b: 0.2, a: 0.9}
+  torqColor: {r: 0.2, g: 0.8, b: 0.1, a: 0.7}
